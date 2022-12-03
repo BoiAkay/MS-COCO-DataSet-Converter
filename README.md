@@ -15,6 +15,6 @@ This repository is created to convert MS COCO dataset in simple format.
 # Data Formate
 Data is stored in thr following way
 
-<Image_name>#<Caption_Number><Caption>
+Image_name#Caption_Number Caption
   
 for each image MS-COCO has 5 associated caption with it
