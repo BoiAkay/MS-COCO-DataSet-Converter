@@ -12,3 +12,7 @@ This repository is created to convert MS COCO dataset in simple format.
 
 **I am using MS COCO 2014 version.**
 **Sample of output file is also avilable in this repository**
+# Data Formate
+Data is stored in thr following way
+**<Image_name>#<Caption_Number> <Caption>**
+for each image MS-COCO has 5 associated caption with it
