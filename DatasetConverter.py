@@ -1,7 +1,7 @@
 import json
 
 InputFilePath = "/Users/akay/Downloads/DataSets/COCO-IMAGES/Captions/captions_val2014.json"
-OutputFilePath = "/Users/akay/Downloads/DataSets/COCO-IMAGES/temp.txt"
+OutputFilePath = "/Users/akay/Downloads/DataSets/COCO-IMAGES/captions_val2014.txt"
 # loading Json file
 with open(InputFilePath,"r") as file:
     InputDict = json.load(file) # it return an python dictionary
