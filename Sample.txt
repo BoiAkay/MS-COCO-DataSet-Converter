@@ -1,0 +1,10 @@
+COCO_val2014_000000000042.jpg#0	This wire metal rack holds several pairs of shoes and sandals
+COCO_val2014_000000000042.jpg#1	A dog sleeping on a show rack in the shoes.
+COCO_val2014_000000000042.jpg#2	Various slides and other footwear rest in a metal basket outdoors.
+COCO_val2014_000000000042.jpg#3	A small dog is curled up on top of the shoes
+COCO_val2014_000000000042.jpg#4	a shoe rack with some shoes and a dog sleeping on them
+COCO_val2014_000000000073.jpg#0	A motorcycle parked in a parking space next to another motorcycle.
+COCO_val2014_000000000073.jpg#1	An old motorcycle parked beside other motorcycles with a brown leather seat.
+COCO_val2014_000000000073.jpg#2	Motorcycle parked in the parking lot of asphalt.
+COCO_val2014_000000000073.jpg#3	A close up view of a motorized bicycle, sitting in a rack. 
+COCO_val2014_000000000073.jpg#4	The back tire of an old style motorcycle is resting in a metal stand. 
